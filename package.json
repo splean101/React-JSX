@@ -1,0 +1,32 @@
+{
+  "name": "react-jsx",
+  "version": "1.0.0",
+  "description": "Задание №1.\r Напишите функцию createReactTable(data, container), которая:\r •\tПринимает двумерный массив data размером 2х2 и на его основе создает React элемент table;\r •\tПринимает элемент DOM container, в который надо добавить элемент table.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splean101/React-Elements.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/splean101/React-Elements/issues"
+  },
+  "homepage": "https://github.com/splean101/React-Elements#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2"
+  }
+}
